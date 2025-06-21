@@ -1,0 +1,22 @@
+2025-06-21 12:40:05,074 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:40:06,336 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:45:06,725 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:45:08,594 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:49:28,549 INFO httpx: HTTP Request: POST https://api.langflow.astra.datastax.com/lf/afc971a6-39cf-4c3b-b1bd-0ad02f6186bb/api/v1/run/bbf30822-2cd1-4524-b7c3-09b52f460692 "HTTP/1.1 200 OK"
+2025-06-21 12:49:28,550 INFO floodnet: Langflow status 200
+2025-06-21 12:49:30,970 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:50:30,525 INFO httpx: HTTP Request: POST https://api.langflow.astra.datastax.com/lf/afc971a6-39cf-4c3b-b1bd-0ad02f6186bb/api/v1/run/bbf30822-2cd1-4524-b7c3-09b52f460692 "HTTP/1.1 200 OK"
+2025-06-21 12:50:30,532 INFO floodnet: Langflow status 200
+2025-06-21 12:50:31,888 INFO httpx: HTTP Request: GET https://api.postcodes.io/postcodes/NW33SD "HTTP/1.1 200 OK"
+2025-06-21 12:57:42,764 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:57:44,730 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:57:59,837 INFO floodnet: DB connected \u279c neondb
+2025-06-21 12:59:17,301 INFO floodnet: DB connected \u2192 neondb
+2025-06-21 13:02:15,109 INFO httpx: HTTP Request: POST https://api.langflow.astra.datastax.com/lf/afc971a6-39cf-4c3b-b1bd-0ad02f6186bb/api/v1/run/bbf30822-2cd1-4524-b7c3-09b52f460692 "HTTP/1.1 200 OK"
+2025-06-21 13:02:15,124 INFO floodnet: Langflow 200
+2025-06-21 13:02:15,412 INFO httpx: HTTP Request: GET https://nominatim.openstreetmap.org/search?postalcode=N170AE&country=uk&format=json&limit=1 "HTTP/1.1 200 OK"
+2025-06-21 13:06:05,107 INFO httpx: HTTP Request: POST https://api.langflow.astra.datastax.com/lf/afc971a6-39cf-4c3b-b1bd-0ad02f6186bb/api/v1/run/bbf30822-2cd1-4524-b7c3-09b52f460692 "HTTP/1.1 200 OK"
+2025-06-21 13:06:05,107 INFO floodnet: Langflow 200
+2025-06-21 13:06:19,030 INFO httpx: HTTP Request: POST https://api.langflow.astra.datastax.com/lf/afc971a6-39cf-4c3b-b1bd-0ad02f6186bb/api/v1/run/bbf30822-2cd1-4524-b7c3-09b52f460692 "HTTP/1.1 200 OK"
+2025-06-21 13:06:19,030 INFO floodnet: Langflow 200
+2025-06-21 13:06:19,141 INFO httpx: HTTP Request: GET https://nominatim.openstreetmap.org/search?postalcode=N170AB&country=uk&format=json&limit=1 "HTTP/1.1 200 OK"
