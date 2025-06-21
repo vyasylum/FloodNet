@@ -55,14 +55,14 @@ cd FloodNet
 cp .env.example .env
 ```
 # .env.example
-
+```
 FLOW_API_URL=https://your-langflow-instance.com/api
 LF_API_KEY=your-mistral-or-openai-token
 DATABASE_URL=postgresql://user:password@hostname:port/dbname
 TWILIO_AUTH_TOKEN=your_twilio_secret
 TWILIO_ACCOUNT_SID=your_twilio_sid
 
-
+```
 📈 Future Plans
 ✅ Plug in Ordnance Survey API (UK-grade postcode lookup)
 
