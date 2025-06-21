@@ -18,7 +18,7 @@ Flood-Net is a hackathon-ready system that triages WhatsApp SOS messages, parses
 
 ## 🗂️ Project Structure
 
-flood-net/
+```flood-net/
 ├── .vscode/ # Editor config
 ├── pycache/ # Python cache
 ├── .env # Your environment variables (gitignored)
@@ -26,6 +26,7 @@ flood-net/
 ├── floodnet # Text notes or sample messages (optional)
 ├── server.py # FastAPI + Twilio webhook + LLM + routing
 └── README.md # You're here!
+```
 
 
 ---
